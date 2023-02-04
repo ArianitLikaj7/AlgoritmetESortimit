@@ -1,5 +1,5 @@
-# AlgoritmetESortimit
-In the file InsertionSortVsMergsot: I implemented the insertionSort and MergeSort algorithms and compared their performance
+#InsertionSortVsMergsort
+In the file InsertionSortVsMergsort: I implemented the insertionSort and MergeSort algorithms and compared their performance
 
 
 # MaxSubArray
